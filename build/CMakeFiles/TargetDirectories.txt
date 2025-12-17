@@ -1,0 +1,4 @@
+C:/misis/Git/marine/build/CMakeFiles/battleship_server.dir
+C:/misis/Git/marine/build/CMakeFiles/battleship_client.dir
+C:/misis/Git/marine/build/CMakeFiles/edit_cache.dir
+C:/misis/Git/marine/build/CMakeFiles/rebuild_cache.dir

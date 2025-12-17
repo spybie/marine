@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/misis/Git/marine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DWIN32  -g -std=gnu++17 -o CMakeFiles\\battleship_server.dir\\battleship_server.cpp.obj -c C:\\misis\\Git\\marine\\battleship_server.cpp",
+  "file": "C:/misis/Git/marine/battleship_server.cpp",
+  "output": "CMakeFiles/battleship_server.dir/battleship_server.cpp.obj"
+},
+{
+  "directory": "C:/misis/Git/marine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DWIN32  -g -std=gnu++17 -o CMakeFiles\\battleship_server.dir\\battleship.cpp.obj -c C:\\misis\\Git\\marine\\battleship.cpp",
+  "file": "C:/misis/Git/marine/battleship.cpp",
+  "output": "CMakeFiles/battleship_server.dir/battleship.cpp.obj"
+},
+{
+  "directory": "C:/misis/Git/marine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DWIN32  -g -std=gnu++17 -o CMakeFiles\\battleship_client.dir\\battleship_client.cpp.obj -c C:\\misis\\Git\\marine\\battleship_client.cpp",
+  "file": "C:/misis/Git/marine/battleship_client.cpp",
+  "output": "CMakeFiles/battleship_client.dir/battleship_client.cpp.obj"
+},
+{
+  "directory": "C:/misis/Git/marine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DWIN32  -g -std=gnu++17 -o CMakeFiles\\battleship_client.dir\\battleship.cpp.obj -c C:\\misis\\Git\\marine\\battleship.cpp",
+  "file": "C:/misis/Git/marine/battleship.cpp",
+  "output": "CMakeFiles/battleship_client.dir/battleship.cpp.obj"
+}
+]

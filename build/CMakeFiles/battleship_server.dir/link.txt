@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\battleship_server.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\battleship_server.dir/objects.a @CMakeFiles\battleship_server.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\battleship_server.dir/objects.a -Wl,--no-whole-archive -o battleship_server.exe -Wl,--out-implib,libbattleship_server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\battleship_server.dir\linkLibs.rsp
